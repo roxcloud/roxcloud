@@ -9,12 +9,7 @@
 ---
 
 ## 📚 Current Projects
-
-- 🔜 [PC Build Budget Guide (A+)](https://github.com/roxcloud/pc-build-budget-guide)
-- 🔜 [Home Network Security Audit (Security+)](https://github.com/roxcloud/pc-build-budget-guide/blob/main/securityplus-home-network-audit.md)
-- 🔜 [WGU Study Resource Hub](https://roxcloud.github.io/wgu-study-hub) – A live, cloud-hosted site with study tools and cheat sheets for WGU and CompTIA courses
-- 🔜 Subnetting Workbook (Network+)
-- 🔜 Wireshark Traffic Lab (Security+)
+- Cloud Resume Challenge 
 
 ---
 
