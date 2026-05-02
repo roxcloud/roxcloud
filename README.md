@@ -11,9 +11,5 @@
 ## 📚 Current Projects
 - Cloud Resume Challenge 
 
----
 
-## 🔗 Coming Soon
-- Study flashcard sets
-- Beginner cloud projects on AWS/Azure
   
