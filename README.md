@@ -9,7 +9,7 @@
 ---
 
 ## 📚 Current Projects
-- Cloud Resume Challenge 
+- IT Service Desk Pro : SharePoint, PowerApps and Power Automate
 
 
   
